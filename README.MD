@@ -1,4 +1,4 @@
-## The following scripts describe how the structured EHR data was processed for machine learning model development:
+## We describe how the structured EHR data was processed for machine learning model development using the scripts in this repository:
 patient2dict --> more_feature_extraction --> pretraining-labeling --> case_control_matching --> convert4training --> dataset_setup
 
 - Step 1: patient2dict
